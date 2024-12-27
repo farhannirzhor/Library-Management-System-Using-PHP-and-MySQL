@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('https://media.istockphoto.com/id/1184816231/photo/reading-room-3d-illustration-bookshelves-reading-place.jpg?s=612x612&w=0&k=20&c=NWBq-CnkBIcnPkM0q1BhyWHOhsBHOzZudURtiVycZis=');
+    background-size: cover;
+    color: #333;
+    text-align: center;
+}
+h2, h1 {
+    margin: 20px;
+}
+form {
+    display: inline-block;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    background: #fff;
+}
+input, button {
+    display: block;
+    margin: 10px auto;
+    padding: 10px;
+    width: 80%;
+}
+a {
+    display: block;
+    margin: 10px;
+    color: blue;
+    text-decoration: none;
+}
